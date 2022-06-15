@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8062c48-7c6b-40af-901f-ec3dc7a96d73" name="Changes" comment="Criação de Array e arrayof de strings para testes">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteDoubleArray.kt" afterDir="false" />
+    <list default="true" id="b8062c48-7c6b-40af-901f-ec3dc7a96d73" name="Changes" comment="Criação de DouleArray e doubleArrayOf de strings para testes">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteOperacoes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TesteDoubleArrayKt">
+  <component name="RunManager" selected="Kotlin.TesteOperacoesKt">
     <configuration name="TesteArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.exa.TesteArrayStringKt" />
       <module name="consoleApp" />
@@ -73,6 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteOperacoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TesteOperacoesKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteOperacoesKt" />
         <item itemvalue="Kotlin.TesteDoubleArrayKt" />
         <item itemvalue="Kotlin.TesteArrayStringKt" />
         <item itemvalue="Kotlin.TesteIntArrayOfKt" />
@@ -123,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655319259806</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Criação de DouleArray e doubleArrayOf de strings para testes">
+      <created>1655319703469</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655319703469</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +156,7 @@
     <MESSAGE value="Criação de intArray para testes" />
     <MESSAGE value="Criação de intArrayOf para testes" />
     <MESSAGE value="Criação de Array e arrayof de strings para testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação de Array e arrayof de strings para testes" />
+    <MESSAGE value="Criação de DouleArray e doubleArrayOf de strings para testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de DouleArray e doubleArrayOf de strings para testes" />
   </component>
 </project>
