@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8062c48-7c6b-40af-901f-ec3dc7a96d73" name="Changes" comment="Criando uma lista de data class para testes com sortedBy para exibição">
+    <list default="true" id="b8062c48-7c6b-40af-901f-ec3dc7a96d73" name="Changes" comment="Criando uma lista de data class para testes com groupBy para exibição">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/Funcionario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteSet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteList.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TesteListKt">
+  <component name="RunManager" selected="Kotlin.TesteSetKt">
     <configuration name="TesteArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.exa.TesteArrayStringKt" />
       <module name="consoleApp" />
@@ -53,13 +56,6 @@
     </configuration>
     <configuration name="TesteDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.TesteDoubleArrayKt" />
-      <module name="consoleApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteIntArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TesteIntArrayOfKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,6 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TesteSetKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteSetKt" />
         <item itemvalue="Kotlin.TesteListKt" />
         <item itemvalue="Kotlin.TesteOperacoesKt" />
         <item itemvalue="Kotlin.TesteDoubleArrayKt" />
         <item itemvalue="Kotlin.TesteArrayStringKt" />
-        <item itemvalue="Kotlin.TesteIntArrayOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655323788307</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Criando uma lista de data class para testes com groupBy para exibição">
+      <created>1655324029772</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655324029772</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +206,7 @@
     <MESSAGE value="Refatorando max() e min() para maxOrNull() e minOrNull()" />
     <MESSAGE value="Criando uma lista de data class para testes" />
     <MESSAGE value="Criando uma lista de data class para testes com sortedBy para exibição" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando uma lista de data class para testes com sortedBy para exibição" />
+    <MESSAGE value="Criando uma lista de data class para testes com groupBy para exibição" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando uma lista de data class para testes com groupBy para exibição" />
   </component>
 </project>
