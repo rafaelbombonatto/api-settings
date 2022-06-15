@@ -28,4 +28,17 @@ fun main() {
         println("Salario: $salario")
     }
 
+    println("--- Exibindo quantidade de salarios entre de 150.0 e 300.0 ---")
+    println(salarios.count(){it in 150.00..300.00})
+
+    println("--- Exibindo um salario especifico dentro do array ---")
+    println(salarios.find(){it == 200.00})
+
+    println("--- Exibindo um salario que não existe dentro do array ---")
+    println(salarios.find(){it == 50.00})
+
+    println("--- Exibindo se existe um salario de 200.00 dentro do array ---")
+    println(salarios.any(){it == 200.00})
+
+
 }

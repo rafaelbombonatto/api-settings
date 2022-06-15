@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8062c48-7c6b-40af-901f-ec3dc7a96d73" name="Changes" comment="Criação de DouleArray e doubleArrayOf de strings para testes">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteOperacoes.kt" afterDir="false" />
+    <list default="true" id="b8062c48-7c6b-40af-901f-ec3dc7a96d73" name="Changes" comment="Teste com operações max, min, average e filtros">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteOperacoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteOperacoes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655319703469</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Teste com operações max, min, average e filtros">
+      <created>1655320214391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655320214391</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +164,7 @@
     <MESSAGE value="Criação de intArrayOf para testes" />
     <MESSAGE value="Criação de Array e arrayof de strings para testes" />
     <MESSAGE value="Criação de DouleArray e doubleArrayOf de strings para testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação de DouleArray e doubleArrayOf de strings para testes" />
+    <MESSAGE value="Teste com operações max, min, average e filtros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste com operações max, min, average e filtros" />
   </component>
 </project>
