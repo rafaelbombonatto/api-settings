@@ -10,10 +10,10 @@ fun main() {
     }
 
     println("--- Exibindo maior salario ---")
-    println("Maior Salario: ${salarios.max()}")
+    println("Maior Salario: ${salarios.maxOrNull()}")
 
     println("--- Exibindo menor salario ---")
-    println("Menor Salario: ${salarios.min()}")
+    println("Menor Salario: ${salarios.minOrNull()}")
 
     println("--- Exibindo media de salario ---")
     println("Média Salario: ${salarios.average()}")
