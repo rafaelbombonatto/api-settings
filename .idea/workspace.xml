@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8062c48-7c6b-40af-901f-ec3dc7a96d73" name="Changes" comment="Refatorando max() e min() para maxOrNull() e minOrNull()">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteList.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b8062c48-7c6b-40af-901f-ec3dc7a96d73" name="Changes" comment="Criando uma lista de data class para testes">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteList.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655322675746</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Criando uma lista de data class para testes">
+      <created>1655323603282</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655323603282</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +187,7 @@
     <MESSAGE value="Teste com operações max, min, average e filtros" />
     <MESSAGE value="Teste com operações count, find, any" />
     <MESSAGE value="Refatorando max() e min() para maxOrNull() e minOrNull()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refatorando max() e min() para maxOrNull() e minOrNull()" />
+    <MESSAGE value="Criando uma lista de data class para testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando uma lista de data class para testes" />
   </component>
 </project>
