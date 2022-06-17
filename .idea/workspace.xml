@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8062c48-7c6b-40af-901f-ec3dc7a96d73" name="Changes" comment="Criando Colecoes mutaveis, usando mutableListOf e mutableSetOf">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/Repositorio.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteMapaMutavel.kt" afterDir="false" />
+    <list default="true" id="b8062c48-7c6b-40af-901f-ec3dc7a96d73" name="Changes" comment="Criando e manipulando Mapas mutaveis">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/BigDecimal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/example/TesteFuncoesExtendidas.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TesteMapaMutavelKt">
+  <component name="RunManager" selected="Kotlin.TesteFuncoesExtendidasKt">
     <configuration name="TesteColecoesMutaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.TesteColecoesMutaveisKt" />
       <module name="consoleApp" />
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TesteListKt" />
+    <configuration name="TesteFuncoesExtendidasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TesteFuncoesExtendidasKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteFuncoesExtendidasKt" />
         <item itemvalue="Kotlin.TesteMapaMutavelKt" />
         <item itemvalue="Kotlin.TesteColecoesMutaveisKt" />
         <item itemvalue="Kotlin.TesteMapKt" />
         <item itemvalue="Kotlin.TesteSetKt" />
-        <item itemvalue="Kotlin.TesteListKt" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655485040348</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Criando e manipulando Mapas mutaveis">
+      <created>1655485661635</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1655485661635</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +237,7 @@
     <MESSAGE value="Criando testes com set, usando union, subtract e intersect" />
     <MESSAGE value="Criando testes com map" />
     <MESSAGE value="Criando Colecoes mutaveis, usando mutableListOf e mutableSetOf" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando Colecoes mutaveis, usando mutableListOf e mutableSetOf" />
+    <MESSAGE value="Criando e manipulando Mapas mutaveis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando e manipulando Mapas mutaveis" />
   </component>
 </project>
